@@ -1,0 +1,4 @@
+
+1. The Average Response Time is the average time taken for every round trip request. It includes the loading time of HTML, CSS, XML, images, JavaScript files, etc. Therefore, the average is affected when slow components are present in the system.For the maximum average response time across the users we need  to calculate the time required for the Request and Response for every user and maximum time across the users which will be resultant.
+
+2. maximum average response time for each user. we need  to calculate the time required for the Request and Response for every user.
